@@ -1,4 +1,4 @@
-# SnakeGame [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Flappy Bird[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 This Flappy Bird Is Made Using Python 3.9.5 & Pygame Module.
 Hope You Will Like The Game.. 
 You may use the code to make your own version of game.
