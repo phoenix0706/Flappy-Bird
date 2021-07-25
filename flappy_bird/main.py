@@ -1,3 +1,4 @@
+author="jyoti nigam"
 import random #For generating random numbers
 import sys #to use sys.exit in order to exit the program
 import pygame
